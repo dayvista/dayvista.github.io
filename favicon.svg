@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <title>Dayvista</title>
+  <defs>
+    <clipPath id="r"><rect width="128" height="128" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="128" height="128" fill="#2563eb"/>
+    <g fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M86.2 53.7 A30 30 0 0 1 58 94" stroke-linecap="butt" opacity="0.6"/>
+      <path d="M37 94 H58" stroke-linecap="butt"/>
+      <path d="M37 94 V34 H58 A30 30 0 0 1 86.2 53.7"/>
+    </g>
+    <circle cx="86.2" cy="53.7" r="12" fill="#ffd166"/>
+  </g>
+</svg>
